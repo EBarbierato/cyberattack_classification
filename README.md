@@ -39,5 +39,5 @@ Execute the following notebooks:
 
 ---
 
-Enrico Barbierato (enrico.barbierato@unicatt.it)
+Enrico Barbierato (enrico.barbierato[at]unicatt.it)
 
